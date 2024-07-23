@@ -1,1 +1,1 @@
-# veryhungryface.github.io
+# https://teachablemachine.withgoogle.com/models/kUx7vfdNY/
