@@ -2,7 +2,7 @@
     "pageTitle": "나만의 연예인상 테스트",
     "mainTitle": "난 무슨 연예인상일까",
     "subtitle": "얼굴로 보는 인공지능 연예인상 테스트",
-    "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
+    "footerText": "&copy; 나경 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/kUx7vfdNY/",
     "classDetails": [
@@ -33,8 +33,6 @@
             "explain": "당신은 깊이감있고 세련된 느낌을 가진 모델상이다.당신은 엄청난 비율과 이목구비를 가지고 있으며 주변이들을 당신의 매력에 빠지게 한다.",
             "celeb": "",
             "color": "rgba(40, 150, 100, 1)"
-
-    
         }
     ]
 }
